@@ -47,8 +47,7 @@ Follow these steps to get the project running locally:
 
 - **Functional Testing:** Validated core scenarios such as registration, login, role-based access, and password reset  
 - **Security Testing:** Verified JWT handling, protected routes, and input validation  
-- **Code Review:** Ensured code is well-structured, documented, and follows best practices  
-- **Test Cases:** Detailed reports and test coverage can be found [here](#) *(insert actual link)*  
+- **Code Review:** Ensured code is well-structured, documented, and follows best practices   
 
 ## Contributing  
 
